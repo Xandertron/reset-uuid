@@ -1,4 +1,4 @@
 # reset-uuid
-Allows you to change your uuid in Mindustry, works on mobile
+A simple mindustry mod that allows you to change your uuid, works on mobile
 
 Requires [UI-Lib](https://github.com/DeltaNedas/ui-lib)
