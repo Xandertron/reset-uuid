@@ -1,0 +1,10 @@
+{
+	"name": "reset-uuid",
+	"displayName": "Reset UUID",
+	"author": "Xandertron",
+	"description": "Resets your UUID, you can also change it",
+	"version": "1.0",
+	"dependencies": ["ui-lib"],
+	"minGameVersion": 114,
+	"hidden": true
+}
