@@ -1,4 +1,4 @@
-const ui = require("ui-lib/library");
+const ui = require("ui_lib/library");
 ui.addMenuButton("Reset UUID", "refresh", () => {
     Vars.ui.showConfirm("Are you sure you want to reset your UUID? This cannot be undone!",res=>{
 	    Core.settings.put("uuid","")
